@@ -10,7 +10,7 @@ This document provides a comprehensive, reproducible, step-by-step walkthrough f
 
 Using **Google SecOps (Chronicle SIEM, SOAR Case Queue, and Google Threat Intelligence / GTI)**, we investigated, contained, and fully reconstructed three complex multi-stage attack scenarios executed against **Cymbal Investments**.
 
-![Official HackTheBox Completion Scoreboard: 18/18 Flags Solved](images/00_scoreboard_18_of_18.png)
+![Official HackTheBox Completion Scoreboard: 18/18 Flags Solved](images/00_scoreboard_18_of_18_redacted.png)
 
 ### Incident Scenarios Overview
 
