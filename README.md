@@ -2,6 +2,10 @@
 ### Google SecOps & HackTheBox Joint Enterprise Incident Response CTF
 **Final Status:** `18/18 FLAGS SOLVED` (100% Completion) | **Total Score:** `2075 Points` | **Rank:** `#524` out of `#1716`
 
+[![Official HackTheBox & Google Cloud SecOps Certificate of Participation — Operation Cymbal: Cold Room](images/00_certificate_participation.png)](certificates/Operation-Cymbal-2026-Certificate-su6osec.pdf)
+
+*Official Certificate of Participation — click the image to view the full PDF.*
+
 ---
 
 ## 1. Executive Summary & Verification
