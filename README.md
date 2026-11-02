@@ -1,6 +1,6 @@
 # Operation Cymbal: Cold Room — Complete Technical Walkthrough & Reproduction Guide
 ### Google SecOps & HackTheBox Joint Enterprise Incident Response CTF
-**Final Status:** `18/18 FLAGS SOLVED` (100% Completion) | **Total Score:** `2075 Points` | **Rank:** `#1`
+**Final Status:** `18/18 FLAGS SOLVED` (100% Completion) | **Total Score:** `2075 Points` | **Rank:** `#524`
 
 ---
 
